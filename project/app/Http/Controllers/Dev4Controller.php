@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class Dev4Controller extends Controller
 {
-    //
+    public function dev2method() {
+        // some code here
+    }
 }
